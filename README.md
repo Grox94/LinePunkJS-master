@@ -8,7 +8,7 @@ check your nodejs version
 
 How to run ?
 ------
-- `git clone https://github.com/rivaimunte/LineEtotJS.git`
+- `git clone https://github.com/Grox94/LinePunkJS-master.git`
 - `cd LineEtotJS && npm install`
 - `npm start`
 
